@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: QBlurHash
+Upstream-Contact: Joshua Goins <josh@redstrate.com>
+
+Files: .gitignore
+Copyright: None
+License: CC0-1.0
+
+Files: README.md
+Copyright: Joshua Goins <josh@redstrate.com>
+License: CC0-1.0
